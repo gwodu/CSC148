@@ -1,0 +1,77 @@
+CSC148 Summer 2021 Term Test 3
+Q4: ADTs [10 marks]
+--------------------------------------------------------------------------
+
+(i) [2 marks] Your classmate says that "There's no difference between Queues and
+Python lists!". Using the concept of abstract data types, explain whether your
+classmate is correct or incorrect.
+
+TODO: Answer part (i)
+An abstract data type defines some kind of data and the actions that can be performed on it
+Queues differ from Python lists by virtue of their implementation. The way queues were implemented
+in class, information was removed in the same order as it was inserted, using the methods enqueue and
+dequeue. The user could also tell if the queue was empty by using the is_empty method. But python lists are
+implemented differently, for example, items can be inserted at and removed from particular places in the list
+because of pyhton list's index attributes. So python lists and queues differ by virtue of their difference in information storage and retrieval.
+
+
+(ii) For an ordered assortment of <n> values, indicate whether a Linked List
+or a Python List is the better choice to store these values for each of the
+following scenarios (a, b, c). Explain your answers for each.
+
+    a. [2 marks] an application that frequently requires insertions at the
+       last index and deletions at the first index (i.e. index 0)
+
+        TODO: Answer a.
+        Queue would be best since the enqueue method appends to the end of the queue
+        and the dequeue removes the item at the front of the list
+
+    b. [2 marks] an application that frequently requires indexing (i.e. access
+       the value at an index <i>)
+
+        TODO: Answer b.
+        The python list would be better because items are stored contiguously,
+        therefore python's indexing could run at virtually constant time.
+
+    c. [2 marks] an application that frequently requires searching whether a
+       value is present
+
+       TODO: Answer c.
+       Both queue and python lists would be approximately equally capable since each item in both
+       data sets would have to be iterated through.
+
+(v) [2 marks] For the standard Stack and Queue implementations provided in
+class, indicate the printed output once the code below has finished executing.
+Assume that the Stack and Queue classes have been imported correctly.
+
+TODO: Answer part (v)
+for while loop on lines(8 - 9):
+6
+2
+8
+1
+
+for while loop on lines(11 - 12):
+1
+8
+2
+6
+
+          ____________________________________________________________
+          |__adts.py_________________________________________________|
+          |                                                          |
+         1| s = Stack()                                              |
+         2| q = Queue()                                              |
+         3| l = [6, 2, 8, 1]                                         |
+         4| for item in l:                                           |
+         5|     s.push(item)                                         |
+         6|     q.enqueue(item)                                      |
+         7|                                                          |
+         8| while not q.is_empty():                                  |
+         9|     print(q.dequeue())                                   |
+        10|                                                          |
+        11| while not s.is_empty():                                  |
+        12|     print(s.pop())                                       |
+        13|                                                          |
+          |                                                          |
+          |__________________________________________________________|

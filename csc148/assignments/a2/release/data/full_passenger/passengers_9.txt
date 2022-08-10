@@ -1,0 +1,256 @@
+Martha Herring
+BID: 1.5	SOURCE: Earth	DEST: Mercury
+Christopher Barone
+BID: 2.7	SOURCE: Earth	DEST: Mercury
+Fred Klingensmith
+BID: 3.7	SOURCE: Earth	DEST: Mercury
+Jamel Milliken
+BID: 3.1	SOURCE: Earth	DEST: Mercury
+Larry Warren
+BID: 3.8	SOURCE: Earth	DEST: Mercury
+John Longhurst
+BID: 0.7	SOURCE: Earth	DEST: Mercury
+Harry Brown
+BID: 2.7	SOURCE: Earth	DEST: Mercury
+Jesus Grossman
+BID: 2.7	SOURCE: Earth	DEST: Mercury
+John Dahl
+BID: 3.2	SOURCE: Earth	DEST: Mercury
+Chad Mulford
+BID: 0.7	SOURCE: Earth	DEST: Mercury
+Jacob Dimas
+BID: 1.7	SOURCE: Earth	DEST: Mercury
+Easter Heinen
+BID: 0.6	SOURCE: Earth	DEST: Mercury
+Mary Wenzel
+BID: 1.9	SOURCE: Earth	DEST: Mercury
+Kenneth Seibert
+BID: 2.4	SOURCE: Earth	DEST: Mercury
+Dorothea Steele
+BID: 2.9	SOURCE: Earth	DEST: Mercury
+Barry Hedge
+BID: 1.9	SOURCE: Earth	DEST: Mercury
+George Dempsey
+BID: 4.0	SOURCE: Earth	DEST: Mercury
+Trevor Davis
+BID: 3.2	SOURCE: Earth	DEST: Venus
+Floyd Nunez
+BID: 4.3	SOURCE: Earth	DEST: Venus
+Gary Knowles
+BID: 3.6	SOURCE: Earth	DEST: Venus
+Ralph Reid
+BID: 3.3	SOURCE: Earth	DEST: Venus
+Bethany Kravitz
+BID: 4.0	SOURCE: Earth	DEST: Venus
+Gregory Moeller
+BID: 1.0	SOURCE: Earth	DEST: Venus
+Maura Wilbanks
+BID: 3.8	SOURCE: Earth	DEST: Venus
+Lauren Traficante
+BID: 2.3	SOURCE: Earth	DEST: Venus
+Nancy Chavarria
+BID: 0.5	SOURCE: Earth	DEST: Venus
+Lloyd Anson
+BID: 1.1	SOURCE: Earth	DEST: Venus
+Margret Ball
+BID: 3.3	SOURCE: Earth	DEST: Venus
+David Rances
+BID: 1.8	SOURCE: Earth	DEST: Venus
+Susan Adams
+BID: 3.8	SOURCE: Earth	DEST: Venus
+Lilian Skaggs
+BID: 1.7	SOURCE: Earth	DEST: Venus
+Abby Becerra
+BID: 1.5	SOURCE: Earth	DEST: Venus
+Eric Branson
+BID: 1.0	SOURCE: Earth	DEST: Venus
+Daniel Taylor
+BID: 1.6	SOURCE: Earth	DEST: Venus
+Mary Hoppe
+BID: 3.7	SOURCE: Earth	DEST: Venus
+Colin Edgar
+BID: 1.3	SOURCE: Earth	DEST: Earth
+Diana Ebert
+BID: 2.4	SOURCE: Earth	DEST: Earth
+Martin Bruce
+BID: 0.7	SOURCE: Earth	DEST: Earth
+Johnny Morrow
+BID: 0.4	SOURCE: Earth	DEST: Earth
+Richard Phillips
+BID: 3.4	SOURCE: Earth	DEST: Earth
+Sidney Hutchins
+BID: 3.3	SOURCE: Earth	DEST: Earth
+Billie Wood
+BID: 1.5	SOURCE: Earth	DEST: Earth
+Clifford Rodriguez
+BID: 3.7	SOURCE: Earth	DEST: Earth
+Leonardo Jones
+BID: 0.8	SOURCE: Earth	DEST: Earth
+Angela Jackson
+BID: 0.8	SOURCE: Earth	DEST: Earth
+Quinn Serna
+BID: 1.1	SOURCE: Earth	DEST: Earth
+Jennifer Watkins
+BID: 1.6	SOURCE: Earth	DEST: Earth
+Charlotte Read
+BID: 2.1	SOURCE: Earth	DEST: Mars
+Loretta Coleman
+BID: 3.8	SOURCE: Earth	DEST: Mars
+Delois Phillips
+BID: 2.6	SOURCE: Earth	DEST: Mars
+Jay Christmas
+BID: 2.2	SOURCE: Earth	DEST: Mars
+Julius Helton
+BID: 2.5	SOURCE: Earth	DEST: Mars
+Bonnie Davis
+BID: 1.8	SOURCE: Earth	DEST: Mars
+Colleen Taylor
+BID: 3.9	SOURCE: Earth	DEST: Mars
+Carolyn Giroux
+BID: 1.6	SOURCE: Earth	DEST: Mars
+Wade Whitfield
+BID: 0.7	SOURCE: Earth	DEST: Mars
+Alfredo Rangel
+BID: 0.6	SOURCE: Earth	DEST: Mars
+Deane Kirkpatrick
+BID: 2.6	SOURCE: Earth	DEST: Jupiter
+Andrew Buckley
+BID: 2.6	SOURCE: Earth	DEST: Jupiter
+Carol Boyd
+BID: 2.1	SOURCE: Earth	DEST: Jupiter
+Betty Beasley
+BID: 3.8	SOURCE: Earth	DEST: Jupiter
+Richard Ferenz
+BID: 3.6	SOURCE: Earth	DEST: Jupiter
+Timothy Birk
+BID: 3.7	SOURCE: Earth	DEST: Jupiter
+Daniel Howell
+BID: 3.8	SOURCE: Earth	DEST: Jupiter
+Marisol Hurt
+BID: 2.9	SOURCE: Earth	DEST: Jupiter
+Emilio Swanson
+BID: 2.5	SOURCE: Earth	DEST: Jupiter
+Vicki Spencer
+BID: 0.3	SOURCE: Earth	DEST: Jupiter
+Anita Claiborne
+BID: 0.8	SOURCE: Earth	DEST: Jupiter
+Diane Mack
+BID: 2.8	SOURCE: Earth	DEST: Jupiter
+Mike June
+BID: 0.6	SOURCE: Earth	DEST: Jupiter
+Daniel Corum
+BID: 2.2	SOURCE: Earth	DEST: Jupiter
+Mary Carter
+BID: 1.6	SOURCE: Earth	DEST: Jupiter
+Deborah Jackson
+BID: 2.0	SOURCE: Earth	DEST: Jupiter
+Edna Flax
+BID: 1.8	SOURCE: Earth	DEST: Jupiter
+Jeff Savage
+BID: 1.8	SOURCE: Earth	DEST: Jupiter
+Kelle Damon
+BID: 0.8	SOURCE: Earth	DEST: Jupiter
+Craig Mauldin
+BID: 1.1	SOURCE: Earth	DEST: Saturn
+Christopher Gonzalez
+BID: 1.2	SOURCE: Earth	DEST: Saturn
+Paul Wells
+BID: 4.1	SOURCE: Earth	DEST: Saturn
+Ricardo Brink
+BID: 0.3	SOURCE: Earth	DEST: Saturn
+Erin Studer
+BID: 0.9	SOURCE: Earth	DEST: Saturn
+Kathleen Jordan
+BID: 3.2	SOURCE: Earth	DEST: Saturn
+Maria Franke
+BID: 3.9	SOURCE: Earth	DEST: Saturn
+Virginia Parker
+BID: 3.2	SOURCE: Earth	DEST: Saturn
+Jeanette Heisler
+BID: 2.0	SOURCE: Earth	DEST: Saturn
+Linda Vildosola
+BID: 1.8	SOURCE: Earth	DEST: Saturn
+Pearl Love
+BID: 3.1	SOURCE: Earth	DEST: Saturn
+Manuel Ybarra
+BID: 1.5	SOURCE: Earth	DEST: Uranus
+Wanda Doner
+BID: 3.5	SOURCE: Earth	DEST: Uranus
+Ashley Gibson
+BID: 0.7	SOURCE: Earth	DEST: Uranus
+Sharyn Freeman
+BID: 4.1	SOURCE: Earth	DEST: Uranus
+Jeffrey Moore
+BID: 0.6	SOURCE: Earth	DEST: Uranus
+Robert Fitzgerald
+BID: 3.8	SOURCE: Earth	DEST: Uranus
+Lawrence Hayes
+BID: 1.9	SOURCE: Earth	DEST: Uranus
+Stephen Laswell
+BID: 0.5	SOURCE: Earth	DEST: Uranus
+Jack Florez
+BID: 2.1	SOURCE: Earth	DEST: Uranus
+Guadalupe Ruiz
+BID: 1.5	SOURCE: Earth	DEST: Uranus
+Kathryn Gibson
+BID: 1.9	SOURCE: Earth	DEST: Neptune
+Marcella Gains
+BID: 4.2	SOURCE: Earth	DEST: Neptune
+Peter Davis
+BID: 1.0	SOURCE: Earth	DEST: Neptune
+Maria Donaldson
+BID: 3.9	SOURCE: Earth	DEST: Neptune
+Steven Amie
+BID: 3.1	SOURCE: Earth	DEST: Neptune
+Ying Sessions
+BID: 3.9	SOURCE: Earth	DEST: Neptune
+June Blanton
+BID: 3.4	SOURCE: Earth	DEST: Neptune
+Jessica Stewart
+BID: 0.9	SOURCE: Earth	DEST: Neptune
+Barbara Kies
+BID: 1.2	SOURCE: Earth	DEST: Neptune
+Robert Schwass
+BID: 1.2	SOURCE: Earth	DEST: Neptune
+Joseph Beliles
+BID: 0.3	SOURCE: Earth	DEST: Neptune
+Elizabeth Laguna
+BID: 0.9	SOURCE: Earth	DEST: Neptune
+Robert Alonso
+BID: 3.8	SOURCE: Earth	DEST: Neptune
+Nellie Brown
+BID: 1.1	SOURCE: Earth	DEST: Neptune
+Melissa Teegarden
+BID: 0.6	SOURCE: Earth	DEST: Neptune
+Alberta Lawyer
+BID: 3.9	SOURCE: Earth	DEST: Neptune
+Billy Orange
+BID: 3.2	SOURCE: Earth	DEST: Neptune
+Kathy Caldwell
+BID: 1.4	SOURCE: Earth	DEST: Neptune
+Jane Carver
+BID: 4.3	SOURCE: Earth	DEST: Neptune
+Tod Johnson
+BID: 2.1	SOURCE: Earth	DEST: Sun
+Edward Miller
+BID: 1.3	SOURCE: Earth	DEST: Sun
+Virginia Skelton
+BID: 3.1	SOURCE: Earth	DEST: Sun
+Colby Martin
+BID: 1.7	SOURCE: Earth	DEST: Sun
+Richard Brooks
+BID: 3.7	SOURCE: Earth	DEST: Sun
+Paul Wrape
+BID: 1.2	SOURCE: Earth	DEST: Sun
+Audrey Karcher
+BID: 4.2	SOURCE: Earth	DEST: Sun
+Charles Sutherland
+BID: 4.0	SOURCE: Earth	DEST: Sun
+Bridget Carbaugh
+BID: 1.2	SOURCE: Earth	DEST: Sun
+Waneta Elliott
+BID: 2.3	SOURCE: Earth	DEST: Sun
+Robert Blecha
+BID: 3.0	SOURCE: Earth	DEST: Sun
+George Medina
+BID: 3.7	SOURCE: Earth	DEST: Sun

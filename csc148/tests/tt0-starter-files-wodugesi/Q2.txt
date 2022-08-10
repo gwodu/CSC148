@@ -1,0 +1,74 @@
+Question 2 [5 marks]
+=====================
+This question includes several small short-answer questions.
+
+Part (a) [1 mark]
+-----------------
+State one advantage of making some instance attributes in a class private.
+By reducing the number of public attributes, it makes the code less
+complicated for the user to use, and also allows the code creator adjust the
+implementation of the code, without affecting how the user uses the code. This
+allows for plug-out-plug-in compatibility
+
+
+
+
+Part (b) [1 mark]
+-----------------
+Suppose we are using the debugger in PyCharm and have paused execution on a line of code. Describe
+two different ways we can continue program execution, saying for each where the program would stop.
+First, there's the step-in button, which takes you to the next line of code,
+following the logic of the code. For example, if the line to be executed was a
+function call, the step-in function would take you to the function being called.
+
+Second, there's the step-over button, this takes you to the next distinct
+line of code. In this, it executes and skips over function calls, for loops and
+while loops.
+
+
+
+
+Part (c) [1 mark]
+-----------------
+Consider a Python list of 1000 items. Which one of these is fastest?
+	1. Insertion at the front.
+	2. Insertion at the back.
+	3. Neither. They take about the same amount of time.
+2
+
+
+
+
+Part (d) [1 mark]
+-----------------
+Consider the LinkedList class we worked on in this course, with one instance attribute: a reference to the first node. Suppose we implement a Stack class using an instance of LinkedList where the bottom of the stack is at the front of the linked list, and we have a stack with 1000 items. Which stack operation is faster? Circle one answer:
+	1. push
+	2. pop
+	3. Neither. They take about the same amount of time.
+3
+
+
+
+
+Part (e) [1 mark]
+-----------------
+What is the value of x just before the following code terminates?
+x = [10, 0, 1, 4]
+try:
+    x[2] = x[4] / x[1]
+except AttributeError:
+    x.append(3)
+except IndexError:
+    x[1] = 5
+except ZeroDivisionError:
+    x.extend([2, True])
+except NotImplementedError:
+    x = 'not implemented'
+except Exception:
+x = None
+
+[10, 5, 1, 4]
+
+
+
+

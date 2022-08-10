@@ -1,0 +1,60 @@
+Question 3 [6 marks]
+=====================
+
+This question includes several small short-answer questions.
+
+Below is a function that is missing most of its docstring. You will provide additional pieces.
+def do_something(q1: Queue, q2: Queue) -> Queue:
+    """
+    Precondition: q1 and q2 contain only ints.
+    """
+    q = Queue()
+    while not q1.is_empty():
+        item1 = q1.dequeue()
+        item2 = q2.dequeue()
+        if item1 > item2:
+            q.enqueue(item1)
+        else:
+            q.enqueue(item2)
+    return q
+
+
+Part (a) [2 marks]
+-------------------
+What additional preconditions are needed to ensure the function does not raise an error. If none are
+necessary, write “None”.
+len(q2) >= len(q1)
+
+
+
+
+Part (b) [2 marks]
+-------------------
+Write an English description of the function, suitable for the docstring. Assume all preconditions are met.
+Compares each item in q1 and q2 in pairs(ie. comparing
+the first of each, and the second of each, and so on) until q1 is empty
+ and enqueues the bigger of each comparison pair in the new queue q, which is
+ returned
+
+
+
+
+Part (c) [2 marks]
+-------------------
+Complete this one doctest example so that it demonstrates all aspects of what the function does. You may
+continue your answer in a second column if needed.
+    >>> stuff = Queue()
+    >>> stuff.enqueue(3)
+    >>> stuff.enqueue(61)
+    >>> stuff.enqueue(10)
+    >>> stuff2 = Queue()
+    >>> stuff2.enqueue(4)
+    >>> stuff2.enqueue(1)
+    >>> stuff2.enqueue(11)
+    >>> do_something(stuff, stuff2)
+    [4, 61, 11]
+
+
+
+
+

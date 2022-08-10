@@ -1,0 +1,66 @@
+Atom Bike
+ID_641636	4	3.9	0.5
+MC^2 Bike
+ID_646757	29	33.7	5.1
+Atom Bike
+ID_703386	2	4.2	0.5
+Atom Bike
+ID_246853	3	3.9	0.6
+Nova Bike
+ID_643162	15	6.9	1.1
+Nova Bike
+ID_852677	16	7.3	1.1
+Nova Bike
+ID_207566	18	8.0	0.9
+Nova Bike
+ID_685740	8	7.8	1.0
+MC^2 Bike
+ID_980443	25	34.2	4.7
+Atom Bike
+ID_636209	3	4.2	0.6
+MC^2 Bike
+ID_833584	27	36.1	5.1
+MC^2 Bike
+ID_293247	28	28.2	4.6
+Nova Bike
+ID_379221	18	7.6	1.1
+Nova Bike
+ID_924559	20	8.4	1.1
+Nova Bike
+ID_241666	5	7.4	1.0
+Atom Bike
+ID_991477	3	3.6	0.5
+Atom Bike
+ID_668217	2	3.9	0.5
+MC^2 Bike
+ID_172558	29	30.3	4.8
+Atom Bike
+ID_193301	3	3.7	0.6
+MC^2 Bike
+ID_644336	26	34.6	4.9
+Atom Bike
+ID_728144	3	3.9	0.5
+Nova Bike
+ID_828088	18	8.5	1.1
+Nova Bike
+ID_378231	17	6.8	0.9
+Nova Bike
+ID_563336	11	7.6	1.0
+MC^2 Bike
+ID_494880	26	31.5	4.9
+MC^2 Bike
+ID_415501	27	35.3	5.0
+MC^2 Bike
+ID_701393	27	35.7	5.0
+MC^2 Bike
+ID_793253	25	30.8	4.6
+Atom Bike
+ID_857693	4	3.6	0.4
+Atom Bike
+ID_689718	3	3.5	0.4
+Nova Bike
+ID_878971	10	7.8	0.9
+Atom Bike
+ID_828710	2	3.7	0.5
+Nova Bike
+ID_429804	14	7.6	0.8

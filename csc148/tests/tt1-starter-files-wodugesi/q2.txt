@@ -1,0 +1,220 @@
+CSC148 Summer 2021 Term Test 1
+Q2: Free-form answer questions [20 marks]
+--------------------------------------------------------------------------
+
+This question has multiple sub-parts:
+    PART A [5 marks] (i, ii)
+    PART B [15 marks] (i, ii, iii, iv)
+
+It is recommended that you open this file in PyCharm as it will highlight
+all of the sections marked with #TODO.
+
+#########################################################################
+#    PART A [5 marks]                                                   #
+#########################################################################
+              _______________________________________
+              |___ main.py _________________________|
+              |                                     |
+             1|  def func_c() -> int:               |
+             2|      x = 0                          |
+             3|      return x + 1                   |
+             4|                                     |
+             5|  def func_b() -> None:              |
+             6|      func_c()                       |
+             7|                                     |
+             8|  def func_a() -> None:              |
+             9|      func_b()                       |
+            10|                                     |
+            11|                                     |
+            12|  if __name__ == "__main__":         |
+            13|      x = func_a()                   |
+            14|                                     |
+              |_____________________________________|
+
+(i) [2 marks] What is the value of x once main.py has finished running?
+
+    # TODO: complete (i)
+    1
+
+(ii) [3 marks] Indicate which functions are on the call stack when the program is
+executing line 2. The bottom of the call stack has already been filled out for you.
+You may remove any stack frames you do not need (or add additional ones). You do not
+need to include variables or any object ids.
+
+    # TODO: complete (ii)
+
+
+                         ____ call stack _______
+                        | TOP OF CALL STACK     |
+                        |                       |
+                        |_______________________|
+                        |                       |
+                        |                       |
+                        |_______________________|
+                        | func_c()                      |
+                        |                       |
+                        |_______________________|
+                        | func_b()                      |
+                        |                       |
+                        |_______________________|
+                        |  func_a()                     |
+                        |                       |
+                        |_______________________|
+                        | BOTTOM OF CALL STACK  |
+                        | func_a()              |
+                        |_______________________|
+
+
+#########################################################################
+#    PART B [15 marks]                                                  #
+#########################################################################
+
+Consider the class _Node from lecture (replicated at the end of this file),
+used to implement the LinkedList.
+
+You would like to implement a Circular Queue ADT using the _Node class. The
+Circular Queue ADT is based on the Queue ADT, where the enqueue/dequeue
+operations are performed in FIFO order. There is an additional requirement
+that the "last" node in the Circular Queue has its <next> attribute set to
+the "first" node in the Circular Queue. For example:
+
+>>> cq = CircularQueue(...)                   |-----|         |-----|
+>>> cq.enqueue("a")                           |  a  |  ----▶  |  b  |
+>>> cq.enqueue("b")                           |_____|         |_____|
+>>> cq.enqueue("c")                              ▲               |
+>>> cq.enqueue("d")                              |               |
+>>> cq.dequeue()                                 |               ▼
+'a'                                           |-----|         |-----|
+>>> cq.dequeue()                              |  d  |  ◀----  |  c  |
+'b'                                           |_____|         |_____|
+>>> cq.dequeue()
+'c'                                     ABOVE: AFTER ENQUEUEING 'a', 'b', 'c', 'd'
+>>> cq.dequeue()
+'d'                                     BELOW: AFTER MULTIPLE DEQUEUES
+>>> cq.dequeue()                               & ENQUEUEING 'w'
+'a'
+>>> cq.enqueue('w')                     |-----|                        |-----|
+>>> cq.dequeue()                        |  a  |  -------------------▶  |  b  |
+'b'                                     |_____|                        |_____|
+>>> cq.dequeue()                           ▲                              |
+'c'                                        |                              |
+>>> cq.dequeue()                           |                              ▼
+'d'                                     |-----|        |-----|         |-----|
+>>> cq.dequeue()                        |  w  |  ◀---- |  d  |  ◀----  |  c  |
+'w'                                     |_____|        |_____|         |_____|
+>>> cq.enqueue('x')
+>>> cq.dequeue()
+'a'
+
+(i) [3 marks] Indicate the result of each of the following dequeue operations.
+
+>>> cq = CircularQueue(...)  # a new circular queue
+>>> cq.enqueue(8)
+>>> cq.enqueue(9)
+>>> cq.dequeue()
+8
+>>> cq.dequeue()
+9
+>>> cq.enqueue(4)  # a new element is enqueued
+>>> cq.dequeue()
+8
+>>> cq.dequeue()
+9
+>>> cq.dequeue()
+4
+>>> cq.dequeue()
+8
+
+
+(ii) [2 marks] Indicate whether the provided _Node implementation is sufficient to use
+in implementing the CircularQueue as-is, or if you will need to extend it in a child
+class. Explain what changes you will make, or indicate **why** no changes need to be made.
+
+    There will be no need for a new or extended implementation of the _Node, this
+    is because the current implementation already allows for each item to be linked
+    to another. Where in a regular queue, the last node would have it's <next>
+    attribute assigned to None, now it'll be assigned to the first element in the
+    Circular Queue. And if any item is to be enqueued, then the last item's <next>
+    attribute will be re-assigned to the new item, and the enqueued item becomes the
+    last, and will have it's <next> attribute set to the first item.
+
+(iii) [5 marks] Identify the instance attributes you will need to implement the CircularQueue
+ADT. Complete the __init__ method for the CircularQueue class, including:
+    ▶ type annotations in the method header
+    ▶ docstrings for the class, including an explanation of what each instance attribute
+      represents.
+    ▶ annotated instance attributes in the class body.
+You are not required to create any docstring examples.
+
+    class CircularQueue:
+        """TODO: <YOUR DOCSTRING HERE>
+        A variant of the Queue ADT that links all items in the list with the <next>
+        attribute, and has the last item in the list, linked to the first item in
+        the last via the same method.
+
+        self.first: The first item in the list
+        self.last: The last item in the list
+        item_to_be_dequeued: the item that is going to be returned by the dequeue
+                             method
+        len: number of items in Circular Queue
+
+        """
+        # TODO: <YOUR ANNOTATED ATTRIBUTES HERE>
+        first: _Node
+        last: _Node
+        item_to_be_dequeued: _Node
+        len: int
+
+        def __init__(self, first_node):
+            "Initialises an instance of the CircularQueue class"
+            self.first = first
+            self.last = last
+            item_to_be_dequeued = first.item
+
+
+(iv) [3 marks] Explain in plain English how you would implement the following CircularQueue
+operations. You must directly refer to the attributes you chose in part (iii). Do **NOT**
+write any code for part (iv).
+
+    ▶ enqueue (add an item to the circular queue, in FIFO order)
+
+    self.last.next would be reassigned to the enqueued item, and the enqueued item's
+    <next> attribute would be assigned to self.first. Then 1 would be added to
+    self.len
+
+    ▶ dequeue (retrieve an item from the circular queue, in FIFO order)
+
+    The first time dequeue is called, item_to_be_dequeued.item will be returned, and it
+    was initialised as self.first. When dequeue is called, item_to_be_dequeued will be
+    reassigned the <next> attribute of itself, ie. item_to_be_dequeued = item_to_be_dequeued.next
+
+    ▶ search whether <item> is in any node of the CircularQueue
+
+    Run dequeue for self.len many times, if at any point, dequeue returns <item>,
+    the code should return True, otherwise, the code should return False
+
+
+_________________________________________________________________________________________
+|__________ circular_queue.py __________________________________________________________|
+|                                                                                       |
+| class _Node:                                                                          |
+|     """A node in a linked data structure.                                             |
+|                                                                                       |
+|     === Attributes ===                                                                |
+|     item:                                                                             |
+|         The data stored in this node.                                                 |
+|     next:                                                                             |
+|         The next node in the list, or None if there are no more nodes.                |
+|     """                                                                               |
+|     item: Any                                                                         |
+|     next: Optional[_Node]                                                             |
+|                                                                                       |
+|     def __init__(self, item: Any) -> None:                                            |
+|         """Initialize a new node storing <item>, with no next node.                   |
+|         """                                                                           |
+|         self.item = item                                                              |
+|         self.next = None                                                              |
+|                                                                                       |
+| _____________________________________________________________________________________ |
+
+

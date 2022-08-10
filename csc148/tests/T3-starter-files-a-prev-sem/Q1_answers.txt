@@ -1,0 +1,22 @@
+Question 1
+
+a) The post-order traversal of this tree is:
+
+b) The height of the resulting tree is:
+
+c) These insertion sequences yield the result:
+      sequence 1: 
+      sequence 2: 
+
+d) For each assertion, answer "always succeeds", "always fails", or
+   "may succeed or fail depending on the input lists".
+      assertion 1: 
+      assertion 2: 
+      assertion 3: 
+
+e) For each line in the graph, indicate whether it is insertion sort,
+   mergesort, or quicksort:
+      A: 
+      B: 
+      C: 
+ 

@@ -1,0 +1,277 @@
+CSC148 Summer 2021 Term Test 3
+Q1: Short answer [25 marks]
+--------------------------------------------------------------------------
+
+This question has multiple sub-parts:
+    PART A [12 marks] (i, ii, iii, iv, v)
+    PART B [3 marks]
+    PART C [10 marks] (i, ii, iii)
+
+#########################################################################
+#    PART A: Trees [12 marks]                                           #
+#########################################################################
+
+(i) [4 marks] Indicate whether each statement is True (T) or False (F),
+You must BRIEFLY JUSTIFY your answer to get the credit for these questions.
+
+For **any** BST, where <n> is the number of values in the BST:
+
+    ▶ Searching whether a value is in the BST always takes O(log n) time.
+
+    TODO: Add solution
+    False, it would only take O(log n) time if the BST were balanced. If the
+    tree were extremely unbalanced, ie, the main tree and subtrees all had their
+    _left attributes as empty trees, then it would take n time to search through the
+    tree because the search would have to go through each value in the list.
+
+    ▶ The result of the in-order traversal is always different from its
+      post-order traversal.
+
+    TODO: Add solution
+    Yes, because the in-order traversal presents the contents of the tree with
+    the root in the middle of the contents of the <_left> and <_right> subtrees, while
+    the post order presents the root after the contents of it's two subtrees. The only
+    time it will not be different is if there is only one item in the BST, or
+    all the items of the BST have the same value, i.e a BST that has n items all of value 5.
+
+    ▶ The in-order traversal takes O(log n) time in the best-case.
+
+    TODO: Add solution
+    False, because regardless of whatever traversal is used, the code would still have to
+    go through each value in the tree. Therefore, it'll be O(n) in the best case.
+
+    ▶ For a BST and a LinkedList constructed with the same set of values,
+      search in a BST will always have better runtime efficiency.
+
+    TODO: Add solution
+    No, if the information in the BST was inputed in sorted order, then search in both the
+    BST and LinkedList would take about the same amount of time because then each new item added
+    to the BST would be bigger (if values were inputed in ascending order) or
+    smaller (if values were inputed in descending order) than the value that came before it. This would
+    create an extremely unbalanced BST like the one described in the first question of i, and that means
+    that in a search, the BST would have to traverse each item just like in a LinkedList.
+
+
+(ii) [4 marks] In this question, we are referring to the BST's insert method
+discussed during lecture.
+
+    a. [1 mark] Indicate an order of insertion of values that will result in the
+       following BST.
+
+       NOTE: There are many possible answers. You should only provide one.
+
+                                   14
+                                 ⟋   ⟍
+                               13      20
+                             ⟋       ⟋   ⟍
+                            2       17    60
+                             ⟍
+                               5
+
+       TODO: Indicate insertion order
+       14, 13, 2, 5, 20, 17, 60
+
+    c. [1.5 marks] For the same values from part (a), indicate an order of
+       insertion of values that will result in a tree with the **maximum**
+       possible height. Indicate the resulting height of this tree.
+
+       TODO: Indicate insertion order
+       Ascending Order - 2, 5, 13, 14, 17, 20, 60
+       TODO: Indicate height of the tree
+       7
+
+    d. [1.5 marks] For the same values from part (a), indicate an order of
+       insertion of values that will result in a tree with the **minimum**
+       possible height. Indicate the resulting height of this tree.
+
+       TODO: Indicate insertion order
+       14, 5, 13, 2, 20, 17, 60
+       TODO: Indicate height of the tree
+       3
+
+(iii) [1 mark] Can two structurally different BSTs have the same in-order
+traversal? If you answer yes, provide an example of these 2 BSTs and their
+in-order traversal. Otherwise, briefly explain your answer.
+14
+    5
+        2
+        13
+    20
+        17
+        60
+
+
+14
+    13
+        2
+            -
+            5
+        -
+    20
+        17
+        60
+
+If you choose to draw an example for a BST, use the indented notation i.e.
+similar to the output of the __str__ method but clearly indicate if one of
+the subtrees are missing by using an underscore (_).
+
+TODO: Add solution
+
+(iv) [2 marks] Indicate the post-order traversal of the following Tree:
+
+                              18
+                          ⟋   |   ⟍
+                        ⟋     |     ⟍
+                      12      10      9
+                    ⟋ | ⟍     |     ⟋  ⟍
+                  13  14  5   3    5     7
+                          |
+                          1
+
+TODO: add Solution
+13, 14, 1, 5, 12, 3, 10, 5, 7, 9, 18
+
+(v) [1 mark] Indicate the number of leaves a Tree with a branching factor of 10
+(i.e. each internal value has exactly 10 children) has, in terms of its height
+h. You can provide the big-oh notation or the exact number.
+
+TODO: add Solution
+10^h-1
+
+
+#########################################################################
+#    PART B: Recursion and Efficiency [3 marks]                        #
+#########################################################################
+
+Consider the code provided at the end of this file.
+
+State the big-oh runtime for each of the functions foo and bar
+in terms of <n> and <m>, where <n> is the input of foo and <m> is the input to
+bar. Explain the steps that you use to arrive at your answer.
+
+If you are unable to find the runtime of foo, you may assume the runtime of foo
+is some non-constant value <k> in your answer for bar.
+
+    ▶ foo
+    O(n)
+    TODO: Add solution
+    Lines 2 - 3 takes constant time
+    the loop in the while statement will run n times
+    the recursion occurs till n == 0, and since n reduces by 1 with every
+    level of recursion due to the previous while loop, then the recursive depth
+    will is O(n)
+    This forms an arithmetic progression where the cost of foo reduces by 1 on each
+    layer of recursion, because n reduces by 1 on each layer of recursion. Therefore,
+    the runtime will be approximately O(n)
+    ▶ bar
+    O(m)
+    TODO: Add solution
+    Since foo(i) is O(i)(previously proved) and the loop on lines(11 - 12) increases
+    i by 1. We will have another arithmetic progression from 0 to m. Therefore the cost
+    of the runtime of bar will be O(m)
+
+          ____________________________________________________________
+          |__foo_bar.py______________________________________________|
+          |                                                          |
+         1| def foo(n: int) -> None:                                 |
+         2|     if n == 0:                                           |
+         3|         return                                           |
+         4|     else:                                                |
+         5|         i = 0                                            |
+         6|         while i < n - 1:                                 |
+         7|            i += 1                                        |
+         8|         foo(i)                                           |
+         9|                                                          |
+        10| def bar(m: int) -> None:                                 |
+        11|     for i in range(m):                                   |
+        12|         foo(i)                                           |
+        13|                                                          |
+          |                                                          |
+          |__________________________________________________________|
+
+
+
+#########################################################################
+#    PART C: Sorting Algorithms [10 marks]                              #
+#########################################################################
+
+(i) [5 marks] Indicate whether each statement is True (T) or False (F),
+You must BRIEFLY JUSTIFY your answer to get the credit for these questions.
+
+    ▶ The most efficient comparison-based sorting algorithm cannot perform
+      better than O(n^2) for its worst-case runtime complexity.
+       False
+      TODO: Add solution
+      because mergesort is able to achieve a WorstCase of O(nlogn) by
+      recursively splitting the list into equal halves and merging those halves.
+
+    ▶ QuickSort achieves the best possible best- and worst- case runtime across
+      all comparison sorts.
+      False
+      TODO: Add solution
+      Mergesort achieves the best possible worst-case because it is able to
+      split the list in half all the time, unlike QuickSort that can't guarantee
+      being able to split the list in half through all its levels of recursion
+
+    ▶ The best-case runtime for QuickSort is in O(n), which occurs for a list
+      that is already sorted.
+      False
+      TODO: Add solution
+      The best-case runtime would be O(nlogn) and that is when the pivot chosen
+      for partitioning is the median of the list on all levels of recursion. If the
+      list is sorted, it would not ensure that the list is partitioned equally on
+      all levels of recursion.
+
+    ▶ The advantage of in-place QuickSort over standard QuickSort is improved
+      best-case big-oh runtime.
+        False
+      TODO: Add solution
+      Because whether or not it's in-place, quicksort will still randomly partition
+      the list in order to sort it.
+
+    ▶ Choosing the pivot to be the last element of the partition rather than
+      the first element always improves the big-oh runtime of QuickSort.
+        False
+      TODO: Add solution
+      Because it cannot guarantee that the median is chosen for all the levels
+      of the recursive sorting.
+(ii) [1 mark] Explain whether it is possible to create non-recursive
+implementations of QuickSort and MergeSort. Why or why not?
+Yes
+TODO: Add solution
+Everything done with recursion can be done with for loops. The list can be partitioned
+and added to another list of lists where they will be partitioned again, until they can be
+merged.
+
+(iii) [4 marks] Consider the sorting algorithm, BST sort, provided at the end of
+this file. Indicate the **best and worst-case** runtime of BST sort based on the
+BST insert and in-order runtimes covered in lecture. Provide your solution in
+terms of the length of <lst>.
+
+Briefly explain your answer.
+
+TODO: Indicate the best-case runtime
+TODO: Indicate the worst-case runtime
+
+          ____________________________________________________________
+          |__bst_sort.py_____________________________________________|
+          |                                                          |
+         1| def bst_sort(lst: List) -> List:                         |
+         2|     """ Return a version of lst sorted in non-descending |
+         3|     order.                                               |
+         4|     """                                                  |
+         5|     bst = BinarySearchTree(None)                         |
+         6|     for item in lst:                                     |
+         7|         bst.insert(item)                                 |
+         8|                                                          |
+         9|     return bst.in_order()                                |
+        10|                                                          |
+          |                                                          |
+          |__________________________________________________________|
+
+
+
+
+
+
+

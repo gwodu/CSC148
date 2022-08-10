@@ -1,0 +1,131 @@
+CSC148 Summer 2021 Term Test 2
+Q2: Short answer [15 marks]
+--------------------------------------------------------------------------
+
+This question has multiple sub-parts:
+    PART A [5 marks] (i, ii)
+    PART B [10 marks] (i, ii, iii, iv, v)
+
+#########################################################################
+#    PART A [5 marks]                                                   #
+#########################################################################
+
+Consider the code in main.py below:
+
+           ___________________________________________________________
+           |___ main.py _____________________________________________|
+           |                                                         |
+          1| class Zap:                                              |
+          2|     def __init__(self, x: List[int]) -> None:           |
+          3|         x.append(5)                                     |
+          4|                                                         |
+          5| class Bar:                                              |
+          6|     def __init__(self, x: List[int]) -> None:           |
+          7|         x = [1, 2, 3].append(4)                         |
+          8|                                                         |
+          9|                                                         |
+         10| if __name__ == "__main__":                              |
+         11|     x = [100]                                           |
+         12|     y = [100]                                           |
+         13|     z = y                                               |
+         14|                                                         |
+         15|     Bar(x)                                              |
+         16|                                                         |
+         17|     Bar(y)                                              |
+         18|     Zap(y)                                              |
+           |_________________________________________________________|
+
+
+(i) [3 marks] Indicate the values of x, y, and z once main.py is done running.
+
+    ▶ x: [100]
+    ▶ y: [100, 5]
+    ▶ z: [100, 5]
+
+(ii) [2 marks] Indicate whether any part of main.py exhibits polymorphism.
+If so, indicate the line of code where polymorphism occurs. Briefly explain
+your answer.
+
+    No part of main.py has any polymorphism. This is because none of the classes,
+    Bar or Zap, share any attributes. There is also no inheritance between the classes
+    Bar and Zap, so there can be no polymorphism in main.py.
+
+
+#########################################################################
+#    PART B [10 marks]                                                   #
+#########################################################################
+
+Consider the definition of f in foo.py below:
+
+              _______________________________________
+              |___ foo.py __________________________|
+              |                                     |
+             1|  def f(x: int) -> int:              |
+             2|      if x == 0:                     |
+             3|          return x                   |
+             4|      else:                          |
+             5|          return f(x - 1)            |
+             6|                                     |
+              |_____________________________________|
+
+
+(i) [3 marks] Complete the following table. The (# of calls to f) is the total
+number of calls to f that are required to complete the original function call.
+
+                 x   |   f(x)   |  # of calls to f
+                -----|----------|------------------
+                  0  |    0     |        1
+                  1  |    0     |        2
+                  2  |    0     |        3
+                  4  |    0     |        5
+                 10  |    0     |        11
+                100  |    0     |        101
+
+
+(ii) [2 marks] Fill out the call stack for when the program executes line 3 for
+f(4). The bottom of the call stack has already been filled out for you. You may
+remove any stack frames you do not need (or add additional ones). You must not
+include variables or any object ids.
+
+                         ____ call stack _______
+                        | TOP OF CALL STACK     |
+                        |                       |
+                        |_______________________|
+                        |     f(0)                  |
+                        |       x = 0                |
+                        |_______________________|
+                        |    f(1)                   |
+                        |      x = 1                 |
+                        |_______________________|
+                        |   f(2)                    |
+                        |     x = 2                  |
+                        |_______________________|
+                        |  f(3)                     |
+                        |    x = 3                   |
+                        |_______________________|
+                        | BOTTOM OF CALL STACK  |
+                        | f(4)                  |
+                        |_______________________|
+
+
+(iii) [2 marks] Define an appropriate <n>, and state the big-oh runtime
+complexity of f in terms of <n>.
+
+    O(n), where n is the integer value of x.
+
+(iv) [2 marks] Write the functionally equivalent (for all non-negative integer
+inputs x) non-recursive implementation of f, as function g. You do not need to
+write docstrings or docstring examples.
+
+    def g(x: int) -> int:
+        while x != 0:
+            x -= 1
+        return x
+
+
+(v) [1 mark] State the big-oh runtime complexity of g in terms of the same <n>
+you defined in part (iv).
+
+    O(n)
+
+

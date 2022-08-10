@@ -1,0 +1,1000 @@
+Joni Lafontaine
+BID: 2.4	SOURCE: Earth	DEST: Mercury
+William Davenport
+BID: 2.2	SOURCE: Earth	DEST: Mercury
+Phillip Keith
+BID: 1.3	SOURCE: Earth	DEST: Mercury
+Maryann Woodard
+BID: 3.6	SOURCE: Earth	DEST: Mercury
+David Douglas
+BID: 3.8	SOURCE: Earth	DEST: Mercury
+Sharon Maldonado
+BID: 1.6	SOURCE: Earth	DEST: Mercury
+Clarence Schwartz
+BID: 3.8	SOURCE: Earth	DEST: Mercury
+Richard Mcphail
+BID: 1.1	SOURCE: Earth	DEST: Mercury
+Marvin Benton
+BID: 3.0	SOURCE: Earth	DEST: Mercury
+Brandon Gills
+BID: 1.1	SOURCE: Earth	DEST: Mercury
+Andrea Padgett
+BID: 2.6	SOURCE: Earth	DEST: Mercury
+Jean Arthur
+BID: 1.6	SOURCE: Earth	DEST: Mercury
+Thomas Kelly
+BID: 3.7	SOURCE: Earth	DEST: Mercury
+Michael Norris
+BID: 2.5	SOURCE: Earth	DEST: Mercury
+Dorotha Church
+BID: 0.6	SOURCE: Earth	DEST: Mercury
+Isiah Hoover
+BID: 3.2	SOURCE: Earth	DEST: Mercury
+Rita Baney
+BID: 0.5	SOURCE: Earth	DEST: Mercury
+Georgine Ohalloran
+BID: 3.5	SOURCE: Earth	DEST: Mercury
+Brandon Berger
+BID: 2.4	SOURCE: Earth	DEST: Mercury
+Teresa Simpson
+BID: 0.9	SOURCE: Earth	DEST: Mercury
+Bobby Phillips
+BID: 2.7	SOURCE: Earth	DEST: Venus
+Evan Randall
+BID: 1.0	SOURCE: Earth	DEST: Venus
+Fredrick Petela
+BID: 1.0	SOURCE: Earth	DEST: Venus
+Willie Taylor
+BID: 2.7	SOURCE: Earth	DEST: Venus
+Jennifer Armitage
+BID: 1.1	SOURCE: Earth	DEST: Venus
+Michelle Stonecipher
+BID: 1.8	SOURCE: Earth	DEST: Venus
+Shane Conklin
+BID: 0.4	SOURCE: Earth	DEST: Venus
+Marsha Lemons
+BID: 3.4	SOURCE: Earth	DEST: Venus
+Carolyn Bess
+BID: 3.3	SOURCE: Earth	DEST: Venus
+Joan Weeks
+BID: 3.7	SOURCE: Earth	DEST: Venus
+Christopher Garcia
+BID: 0.9	SOURCE: Earth	DEST: Venus
+John Strelow
+BID: 2.5	SOURCE: Earth	DEST: Venus
+Deborah Hughes
+BID: 2.0	SOURCE: Earth	DEST: Venus
+Tiffany Slayton
+BID: 2.9	SOURCE: Earth	DEST: Venus
+James Schultz
+BID: 1.4	SOURCE: Earth	DEST: Venus
+Jimmie Carpenter
+BID: 3.9	SOURCE: Earth	DEST: Venus
+Christine Clayton
+BID: 3.3	SOURCE: Earth	DEST: Venus
+Donna Winkler
+BID: 0.4	SOURCE: Earth	DEST: Venus
+Scott Rodrequez
+BID: 1.2	SOURCE: Earth	DEST: Venus
+Wendy Pewitt
+BID: 1.6	SOURCE: Earth	DEST: Earth
+Jeffrey Burch
+BID: 3.5	SOURCE: Earth	DEST: Earth
+Gerardo Wages
+BID: 0.9	SOURCE: Earth	DEST: Earth
+Richard Childress
+BID: 2.7	SOURCE: Earth	DEST: Earth
+Delbert Lafleche
+BID: 0.3	SOURCE: Earth	DEST: Earth
+Roseanne Murat
+BID: 2.0	SOURCE: Earth	DEST: Earth
+Daniel Woods
+BID: 1.7	SOURCE: Earth	DEST: Earth
+Amanda Myers
+BID: 0.5	SOURCE: Earth	DEST: Earth
+Joshua Griffin
+BID: 3.9	SOURCE: Earth	DEST: Earth
+Ernest Daigle
+BID: 2.6	SOURCE: Earth	DEST: Earth
+Michael Mccoy
+BID: 2.6	SOURCE: Earth	DEST: Earth
+Frank Greene
+BID: 0.7	SOURCE: Earth	DEST: Earth
+Lucille Jacobs
+BID: 2.8	SOURCE: Earth	DEST: Earth
+Caitlin Thompson
+BID: 2.0	SOURCE: Earth	DEST: Earth
+Cesar Wilson
+BID: 1.7	SOURCE: Earth	DEST: Earth
+Charles Nava
+BID: 0.2	SOURCE: Earth	DEST: Earth
+Hattie Brothers
+BID: 4.0	SOURCE: Earth	DEST: Earth
+Allen Gladwell
+BID: 0.3	SOURCE: Earth	DEST: Mars
+Rusty Hagans
+BID: 1.3	SOURCE: Earth	DEST: Mars
+William Moore
+BID: 0.7	SOURCE: Earth	DEST: Mars
+April Rider
+BID: 2.1	SOURCE: Earth	DEST: Mars
+Joshua Davis
+BID: 2.3	SOURCE: Earth	DEST: Mars
+Patrick Cole
+BID: 1.6	SOURCE: Earth	DEST: Mars
+Cornelius Curtis
+BID: 3.0	SOURCE: Earth	DEST: Mars
+Scott Mattioli
+BID: 1.8	SOURCE: Earth	DEST: Mars
+Patsy Carpenter
+BID: 0.8	SOURCE: Earth	DEST: Mars
+Rachele Brown
+BID: 1.6	SOURCE: Earth	DEST: Mars
+Janet Stevens
+BID: 1.8	SOURCE: Earth	DEST: Mars
+Brenda Steele
+BID: 1.9	SOURCE: Earth	DEST: Mars
+Mirna Williams
+BID: 1.1	SOURCE: Earth	DEST: Jupiter
+Lucille Provino
+BID: 0.8	SOURCE: Earth	DEST: Jupiter
+Karen Hoffman
+BID: 3.8	SOURCE: Earth	DEST: Jupiter
+Melony Senn
+BID: 2.5	SOURCE: Earth	DEST: Jupiter
+Aaron Mcgowan
+BID: 3.2	SOURCE: Earth	DEST: Jupiter
+Mildred Millard
+BID: 0.9	SOURCE: Earth	DEST: Jupiter
+Benjamin Heyd
+BID: 1.8	SOURCE: Earth	DEST: Jupiter
+Joe Garcia
+BID: 0.1	SOURCE: Earth	DEST: Jupiter
+Christopher Madera
+BID: 3.2	SOURCE: Earth	DEST: Jupiter
+Derrick Gartman
+BID: 0.4	SOURCE: Earth	DEST: Jupiter
+Amy Mcginnis
+BID: 0.7	SOURCE: Earth	DEST: Jupiter
+Ann Haas
+BID: 0.8	SOURCE: Earth	DEST: Jupiter
+Larry Muhlbauer
+BID: 0.4	SOURCE: Earth	DEST: Jupiter
+Louise Flaherty
+BID: 1.0	SOURCE: Earth	DEST: Jupiter
+Mandi Holling
+BID: 3.7	SOURCE: Earth	DEST: Saturn
+Samuel Gunning
+BID: 2.2	SOURCE: Earth	DEST: Saturn
+Joe Garza
+BID: 1.1	SOURCE: Earth	DEST: Saturn
+Cindy Dyess
+BID: 1.8	SOURCE: Earth	DEST: Saturn
+Alice Denton
+BID: 0.2	SOURCE: Earth	DEST: Saturn
+Thomas Porter
+BID: 2.7	SOURCE: Earth	DEST: Saturn
+Matilda Sanchez
+BID: 2.3	SOURCE: Earth	DEST: Saturn
+Janet Potter
+BID: 2.0	SOURCE: Earth	DEST: Saturn
+Jack Madson
+BID: 3.4	SOURCE: Earth	DEST: Saturn
+Robert Christman
+BID: 3.9	SOURCE: Earth	DEST: Saturn
+Laura Przybyla
+BID: 0.5	SOURCE: Earth	DEST: Saturn
+Karen Talley
+BID: 0.9	SOURCE: Earth	DEST: Saturn
+Tamara Bennett
+BID: 4.1	SOURCE: Earth	DEST: Saturn
+Leila Levitsky
+BID: 3.1	SOURCE: Earth	DEST: Uranus
+Thomas Smith
+BID: 2.2	SOURCE: Earth	DEST: Uranus
+Jennifer Racine
+BID: 1.1	SOURCE: Earth	DEST: Uranus
+Mary Kaneta
+BID: 1.7	SOURCE: Earth	DEST: Uranus
+Clarence Calhoun
+BID: 1.2	SOURCE: Earth	DEST: Uranus
+Ada Elliott
+BID: 4.2	SOURCE: Earth	DEST: Uranus
+Robin Brewer
+BID: 3.8	SOURCE: Earth	DEST: Uranus
+Georgiana Fitz
+BID: 3.5	SOURCE: Earth	DEST: Uranus
+Esther Quinlan
+BID: 3.0	SOURCE: Earth	DEST: Uranus
+Betty Brown
+BID: 2.8	SOURCE: Earth	DEST: Uranus
+Salvador Spain
+BID: 1.5	SOURCE: Earth	DEST: Uranus
+Monica Stiff
+BID: 1.2	SOURCE: Earth	DEST: Uranus
+Samuel Thorp
+BID: 2.4	SOURCE: Earth	DEST: Uranus
+Lara Hassell
+BID: 0.5	SOURCE: Earth	DEST: Uranus
+Jessie Mendoza
+BID: 4.0	SOURCE: Earth	DEST: Uranus
+Kerry Miles
+BID: 0.4	SOURCE: Earth	DEST: Neptune
+Roy Persaud
+BID: 1.4	SOURCE: Earth	DEST: Neptune
+Jean Sauceda
+BID: 1.9	SOURCE: Earth	DEST: Neptune
+James Watkins
+BID: 0.4	SOURCE: Earth	DEST: Neptune
+Willie Bridge
+BID: 0.9	SOURCE: Earth	DEST: Neptune
+Victoria Fish
+BID: 1.0	SOURCE: Earth	DEST: Neptune
+Jackie Vargas
+BID: 0.2	SOURCE: Earth	DEST: Neptune
+Brittney Touhey
+BID: 2.9	SOURCE: Earth	DEST: Neptune
+Jamie Lawson
+BID: 0.3	SOURCE: Earth	DEST: Neptune
+Roosevelt Harrell
+BID: 2.8	SOURCE: Earth	DEST: Neptune
+Jeffrey Johnson
+BID: 2.4	SOURCE: Earth	DEST: Neptune
+Judith Gilman
+BID: 1.2	SOURCE: Earth	DEST: Neptune
+Carina West
+BID: 0.8	SOURCE: Earth	DEST: Neptune
+Frank Lindeman
+BID: 3.8	SOURCE: Earth	DEST: Neptune
+Brian Flemmons
+BID: 0.9	SOURCE: Earth	DEST: Neptune
+Ruby Hernandez
+BID: 3.7	SOURCE: Earth	DEST: Neptune
+Heather Knepper
+BID: 2.2	SOURCE: Earth	DEST: Sun
+Andrew Thomas
+BID: 3.4	SOURCE: Earth	DEST: Sun
+Stephanie Hancock
+BID: 3.4	SOURCE: Earth	DEST: Sun
+Ernesto Cantu
+BID: 1.6	SOURCE: Earth	DEST: Sun
+Jordan Penn
+BID: 3.3	SOURCE: Earth	DEST: Sun
+Allen Garcia
+BID: 2.2	SOURCE: Earth	DEST: Sun
+Thelma Graham
+BID: 4.0	SOURCE: Earth	DEST: Sun
+Mari Green
+BID: 3.4	SOURCE: Earth	DEST: Sun
+Jacob Waldrop
+BID: 0.3	SOURCE: Earth	DEST: Sun
+Shirley Gardner
+BID: 0.7	SOURCE: Earth	DEST: Sun
+Lawrence Zito
+BID: 1.7	SOURCE: Earth	DEST: Sun
+Jonathan Davis
+BID: 3.9	SOURCE: Earth	DEST: Sun
+Louise Beaudry
+BID: 1.5	SOURCE: Earth	DEST: Sun
+Brad Kearby
+BID: 3.1	SOURCE: Earth	DEST: Sun
+Gary Woodward
+BID: 2.3	SOURCE: Earth	DEST: Sun
+Robert Lamp
+BID: 2.7	SOURCE: Earth	DEST: Sun
+Deborah Richard
+BID: 2.1	SOURCE: Earth	DEST: Sun
+Lynette Mahaffy
+BID: 1.7	SOURCE: Earth	DEST: Sun
+Teresa Burton
+BID: 1.9	SOURCE: Earth	DEST: Uranus
+Michele Abeyta
+BID: 1.5	SOURCE: Jupiter	DEST: Saturn
+Deborah Enders
+BID: 4.0	SOURCE: Neptune	DEST: Jupiter
+Roxanne Mason
+BID: 0.3	SOURCE: Jupiter	DEST: Uranus
+Dale Leon
+BID: 3.1	SOURCE: Jupiter	DEST: Mercury
+Theresa Cortinas
+BID: 1.5	SOURCE: Neptune	DEST: Saturn
+Nellie Owen
+BID: 4.2	SOURCE: Earth	DEST: Neptune
+Joseph Sturkie
+BID: 2.5	SOURCE: Mars	DEST: Jupiter
+Dale Miller
+BID: 1.6	SOURCE: Mercury	DEST: Neptune
+Timothy Roark
+BID: 2.0	SOURCE: Sun	DEST: Uranus
+Lucinda Evans
+BID: 1.8	SOURCE: Mars	DEST: Uranus
+Matthew Jones
+BID: 1.4	SOURCE: Earth	DEST: Venus
+Blanche Beck
+BID: 3.5	SOURCE: Sun	DEST: Mars
+Alexia King
+BID: 0.5	SOURCE: Earth	DEST: Sun
+Russell Bilodeau
+BID: 0.9	SOURCE: Sun	DEST: Mercury
+Lynn Griffith
+BID: 2.4	SOURCE: Jupiter	DEST: Earth
+Stella Chapman
+BID: 3.5	SOURCE: Jupiter	DEST: Earth
+John Morganfield
+BID: 3.4	SOURCE: Sun	DEST: Neptune
+Walter Brasher
+BID: 2.6	SOURCE: Jupiter	DEST: Mercury
+Johnnie Edwards
+BID: 3.5	SOURCE: Neptune	DEST: Mercury
+Clifford Goodwyn
+BID: 3.3	SOURCE: Sun	DEST: Mars
+Linda Bledsoe
+BID: 3.3	SOURCE: Jupiter	DEST: Mars
+Wilfred Schwenke
+BID: 0.2	SOURCE: Uranus	DEST: Neptune
+Martha Zimmer
+BID: 3.6	SOURCE: Jupiter	DEST: Uranus
+Marisa Smith
+BID: 3.4	SOURCE: Neptune	DEST: Venus
+James Boyles
+BID: 3.6	SOURCE: Sun	DEST: Venus
+Jeanna Jones
+BID: 1.4	SOURCE: Mercury	DEST: Mars
+William Fisk
+BID: 1.1	SOURCE: Mars	DEST: Uranus
+Scott Ellis
+BID: 2.0	SOURCE: Uranus	DEST: Mercury
+Donald Flickinger
+BID: 3.0	SOURCE: Venus	DEST: Neptune
+Ashley Perry
+BID: 0.5	SOURCE: Neptune	DEST: Mars
+Felix Hinz
+BID: 3.3	SOURCE: Earth	DEST: Saturn
+Julio Kinstler
+BID: 1.4	SOURCE: Uranus	DEST: Neptune
+Mary Pollina
+BID: 0.9	SOURCE: Mercury	DEST: Sun
+Adam Gill
+BID: 2.9	SOURCE: Neptune	DEST: Mercury
+Jose Rivera
+BID: 1.0	SOURCE: Neptune	DEST: Earth
+Arthur Harris
+BID: 1.7	SOURCE: Saturn	DEST: Venus
+Nannette Kim
+BID: 2.9	SOURCE: Neptune	DEST: Jupiter
+Bruce Poon
+BID: 1.4	SOURCE: Uranus	DEST: Mercury
+Kathryn Thompson
+BID: 2.2	SOURCE: Mars	DEST: Saturn
+Norma Marcum
+BID: 3.7	SOURCE: Mars	DEST: Earth
+Sherry Carlo
+BID: 4.2	SOURCE: Venus	DEST: Mars
+Dawn Darrigo
+BID: 1.4	SOURCE: Mercury	DEST: Venus
+Dannie Hathaway
+BID: 0.9	SOURCE: Venus	DEST: Sun
+Sandra Mccoy
+BID: 1.9	SOURCE: Mars	DEST: Uranus
+Christina Hewes
+BID: 3.8	SOURCE: Mars	DEST: Venus
+Will Nicolet
+BID: 3.5	SOURCE: Sun	DEST: Mercury
+Maricela Moore
+BID: 0.6	SOURCE: Sun	DEST: Venus
+Norman Webster
+BID: 0.9	SOURCE: Earth	DEST: Mercury
+Keith Grundhoefer
+BID: 4.2	SOURCE: Jupiter	DEST: Neptune
+Martha Barajas
+BID: 2.8	SOURCE: Jupiter	DEST: Uranus
+Arthur Mckenzie
+BID: 3.1	SOURCE: Jupiter	DEST: Saturn
+Hector Gonzales
+BID: 3.8	SOURCE: Uranus	DEST: Mars
+Travis Gulotta
+BID: 1.0	SOURCE: Jupiter	DEST: Venus
+Lottie Hillard
+BID: 2.7	SOURCE: Uranus	DEST: Mercury
+Margaret Walter
+BID: 0.5	SOURCE: Earth	DEST: Saturn
+Cristina Davis
+BID: 2.9	SOURCE: Sun	DEST: Jupiter
+James Renshaw
+BID: 1.5	SOURCE: Neptune	DEST: Earth
+Sharon Kalhorn
+BID: 3.5	SOURCE: Sun	DEST: Mercury
+Robert Webber
+BID: 2.8	SOURCE: Uranus	DEST: Mars
+Harold Wise
+BID: 1.3	SOURCE: Earth	DEST: Mars
+Ernest Parks
+BID: 2.6	SOURCE: Sun	DEST: Neptune
+Mary Solis
+BID: 0.3	SOURCE: Neptune	DEST: Saturn
+Michael Nesmith
+BID: 1.6	SOURCE: Mars	DEST: Mercury
+Ella Padgett
+BID: 0.9	SOURCE: Mars	DEST: Jupiter
+Harry Hamilton
+BID: 2.6	SOURCE: Earth	DEST: Jupiter
+Patrick Taylor
+BID: 3.3	SOURCE: Mercury	DEST: Jupiter
+Lorraine Sharrar
+BID: 1.5	SOURCE: Saturn	DEST: Sun
+Peggy Burks
+BID: 2.5	SOURCE: Venus	DEST: Jupiter
+Junior Mihalik
+BID: 2.3	SOURCE: Venus	DEST: Neptune
+Darius Nunes
+BID: 3.3	SOURCE: Neptune	DEST: Mars
+Marvin Hewett
+BID: 4.0	SOURCE: Mercury	DEST: Saturn
+Renee Adelstein
+BID: 0.4	SOURCE: Mercury	DEST: Jupiter
+Robert Iacobelli
+BID: 3.0	SOURCE: Mercury	DEST: Jupiter
+Candice Candler
+BID: 3.4	SOURCE: Mercury	DEST: Earth
+George Macdougall
+BID: 2.5	SOURCE: Jupiter	DEST: Mars
+Clara Higgins
+BID: 2.1	SOURCE: Mars	DEST: Jupiter
+Houston Caldwell
+BID: 1.1	SOURCE: Neptune	DEST: Mercury
+Johnny Foster
+BID: 0.5	SOURCE: Jupiter	DEST: Venus
+Sally Hornak
+BID: 1.3	SOURCE: Uranus	DEST: Neptune
+Norma Sano
+BID: 3.9	SOURCE: Mars	DEST: Sun
+Casimira Beal
+BID: 0.8	SOURCE: Venus	DEST: Jupiter
+Tammy Shellhammer
+BID: 3.2	SOURCE: Mercury	DEST: Venus
+Alecia Vangilder
+BID: 2.8	SOURCE: Mars	DEST: Uranus
+Robert Jeffers
+BID: 0.5	SOURCE: Saturn	DEST: Earth
+Cynthia Thorne
+BID: 2.7	SOURCE: Earth	DEST: Mars
+Vera Lash
+BID: 0.6	SOURCE: Jupiter	DEST: Venus
+Jason Rooney
+BID: 1.4	SOURCE: Jupiter	DEST: Uranus
+Max Kincer
+BID: 2.5	SOURCE: Venus	DEST: Neptune
+Candace Gonzalez
+BID: 2.7	SOURCE: Mars	DEST: Venus
+Victoria Dunn
+BID: 4.2	SOURCE: Sun	DEST: Uranus
+Myron Hensley
+BID: 3.5	SOURCE: Sun	DEST: Neptune
+David Christiansen
+BID: 2.0	SOURCE: Neptune	DEST: Jupiter
+Dwight Perez
+BID: 3.9	SOURCE: Neptune	DEST: Earth
+Ernest Owens
+BID: 3.7	SOURCE: Uranus	DEST: Mars
+Jeffrey Black
+BID: 2.3	SOURCE: Jupiter	DEST: Uranus
+Dorothy Kile
+BID: 2.5	SOURCE: Saturn	DEST: Earth
+Lonnie Rivera
+BID: 2.5	SOURCE: Mercury	DEST: Mars
+Robert Owens
+BID: 1.1	SOURCE: Saturn	DEST: Sun
+Charles Christie
+BID: 2.1	SOURCE: Neptune	DEST: Sun
+Walter Moutoux
+BID: 2.2	SOURCE: Mercury	DEST: Uranus
+Lynn Ringer
+BID: 0.5	SOURCE: Uranus	DEST: Venus
+Robert Loughborough
+BID: 2.9	SOURCE: Mercury	DEST: Sun
+Susan Johnson
+BID: 0.9	SOURCE: Neptune	DEST: Jupiter
+Mathew Zuchowski
+BID: 1.2	SOURCE: Venus	DEST: Earth
+Deanna Green
+BID: 2.8	SOURCE: Sun	DEST: Uranus
+Steven Pliml
+BID: 2.1	SOURCE: Mercury	DEST: Mars
+Andre Griffin
+BID: 3.1	SOURCE: Saturn	DEST: Mars
+Megan Vela
+BID: 3.9	SOURCE: Earth	DEST: Mercury
+Jeffrey Franklin
+BID: 2.6	SOURCE: Mercury	DEST: Jupiter
+Brenda Myers
+BID: 4.1	SOURCE: Saturn	DEST: Mercury
+Lola Kimmerle
+BID: 4.1	SOURCE: Saturn	DEST: Jupiter
+Erik Gugler
+BID: 0.4	SOURCE: Uranus	DEST: Venus
+Roderick Lotzer
+BID: 4.3	SOURCE: Mars	DEST: Uranus
+Mary Mattox
+BID: 2.9	SOURCE: Sun	DEST: Uranus
+Mitchell Saunders
+BID: 0.9	SOURCE: Neptune	DEST: Mars
+Nancy Adams
+BID: 1.2	SOURCE: Mars	DEST: Earth
+Willie Jones
+BID: 3.7	SOURCE: Jupiter	DEST: Mercury
+Marilyn Hewitt
+BID: 2.9	SOURCE: Jupiter	DEST: Venus
+Jerome Espinoza
+BID: 3.4	SOURCE: Venus	DEST: Neptune
+Abraham Aaron
+BID: 1.6	SOURCE: Uranus	DEST: Sun
+Annie Jackson
+BID: 2.1	SOURCE: Uranus	DEST: Venus
+Venessa Brown
+BID: 2.2	SOURCE: Uranus	DEST: Venus
+Dawn Suero
+BID: 1.1	SOURCE: Earth	DEST: Uranus
+Hubert Hickman
+BID: 3.8	SOURCE: Mercury	DEST: Sun
+Jodi Walp
+BID: 1.4	SOURCE: Mercury	DEST: Neptune
+James Schroeder
+BID: 2.5	SOURCE: Sun	DEST: Neptune
+Daniel Kimball
+BID: 3.6	SOURCE: Venus	DEST: Mercury
+Wendy Yingling
+BID: 2.8	SOURCE: Sun	DEST: Neptune
+James Gutierrez
+BID: 4.1	SOURCE: Venus	DEST: Neptune
+James Houis
+BID: 0.9	SOURCE: Uranus	DEST: Sun
+Juanita Butler
+BID: 3.5	SOURCE: Uranus	DEST: Saturn
+Teresa Redman
+BID: 3.5	SOURCE: Saturn	DEST: Venus
+Cathy Castillo
+BID: 4.2	SOURCE: Mercury	DEST: Neptune
+Phoebe Hare
+BID: 1.4	SOURCE: Mars	DEST: Venus
+Henry Repp
+BID: 3.2	SOURCE: Neptune	DEST: Saturn
+John Brown
+BID: 3.8	SOURCE: Mars	DEST: Uranus
+Dick Crayton
+BID: 3.3	SOURCE: Jupiter	DEST: Saturn
+Randy Hughes
+BID: 3.4	SOURCE: Neptune	DEST: Jupiter
+Aaron Boykin
+BID: 3.5	SOURCE: Uranus	DEST: Venus
+Sandra Robeson
+BID: 1.3	SOURCE: Venus	DEST: Sun
+Roberta Welsh
+BID: 1.9	SOURCE: Neptune	DEST: Saturn
+Mildred Keirnan
+BID: 0.5	SOURCE: Jupiter	DEST: Saturn
+Susan Hofmeister
+BID: 3.5	SOURCE: Saturn	DEST: Jupiter
+Frank Vance
+BID: 4.1	SOURCE: Uranus	DEST: Neptune
+Pamela Claunch
+BID: 2.0	SOURCE: Venus	DEST: Mercury
+Staci Osborne
+BID: 3.7	SOURCE: Earth	DEST: Mars
+Bruce Lanasa
+BID: 0.7	SOURCE: Venus	DEST: Sun
+Amanda Richardson
+BID: 1.3	SOURCE: Venus	DEST: Mars
+John Foesch
+BID: 1.9	SOURCE: Sun	DEST: Jupiter
+Sandra Thomas
+BID: 3.5	SOURCE: Mercury	DEST: Venus
+Katherine Meyer
+BID: 1.1	SOURCE: Mars	DEST: Venus
+Jean Karaffa
+BID: 3.1	SOURCE: Neptune	DEST: Mercury
+Jane Schmitt
+BID: 4.0	SOURCE: Earth	DEST: Saturn
+Anna Goldberg
+BID: 3.3	SOURCE: Jupiter	DEST: Neptune
+John Smith
+BID: 3.5	SOURCE: Sun	DEST: Mercury
+Maria Mcintosh
+BID: 3.1	SOURCE: Venus	DEST: Mercury
+Lela Harmon
+BID: 2.9	SOURCE: Earth	DEST: Jupiter
+Annie Ladd
+BID: 4.3	SOURCE: Earth	DEST: Sun
+Daniel Bledsoe
+BID: 3.1	SOURCE: Uranus	DEST: Neptune
+George Dickson
+BID: 4.1	SOURCE: Earth	DEST: Sun
+Carmen Bachman
+BID: 3.8	SOURCE: Mercury	DEST: Jupiter
+Chris Burnette
+BID: 3.3	SOURCE: Uranus	DEST: Mars
+Lance Hawkins
+BID: 2.0	SOURCE: Earth	DEST: Sun
+Christine Morgan
+BID: 2.3	SOURCE: Mars	DEST: Jupiter
+Joanne Delreal
+BID: 3.9	SOURCE: Mercury	DEST: Earth
+Christopher Kauffman
+BID: 1.7	SOURCE: Jupiter	DEST: Earth
+Delores Toman
+BID: 3.9	SOURCE: Earth	DEST: Uranus
+Rosalind Bernal
+BID: 1.3	SOURCE: Earth	DEST: Sun
+Patrick Mills
+BID: 0.8	SOURCE: Venus	DEST: Earth
+Richard Robinson
+BID: 1.2	SOURCE: Venus	DEST: Saturn
+Stuart Robinson
+BID: 1.0	SOURCE: Mercury	DEST: Sun
+Scott Brennan
+BID: 1.8	SOURCE: Jupiter	DEST: Mercury
+Paula Dunn
+BID: 3.6	SOURCE: Jupiter	DEST: Venus
+Darlene Peterson
+BID: 3.6	SOURCE: Jupiter	DEST: Saturn
+Mary Meadows
+BID: 2.6	SOURCE: Saturn	DEST: Venus
+Jerry Thompson
+BID: 2.5	SOURCE: Venus	DEST: Mercury
+Barbara Patterson
+BID: 3.1	SOURCE: Jupiter	DEST: Neptune
+Joan Sample
+BID: 3.0	SOURCE: Saturn	DEST: Venus
+Lloyd Pelote
+BID: 0.8	SOURCE: Uranus	DEST: Earth
+Matthew Dunn
+BID: 1.7	SOURCE: Jupiter	DEST: Mars
+Debra Oquendo
+BID: 1.8	SOURCE: Earth	DEST: Mars
+Patricia Wheeler
+BID: 3.4	SOURCE: Venus	DEST: Mercury
+Grace Guerrero
+BID: 2.3	SOURCE: Sun	DEST: Jupiter
+Paul Lombardi
+BID: 2.1	SOURCE: Earth	DEST: Jupiter
+Stacey Parsons
+BID: 4.0	SOURCE: Neptune	DEST: Saturn
+Leah Wiggins
+BID: 0.6	SOURCE: Mercury	DEST: Neptune
+Krystal Mauro
+BID: 1.5	SOURCE: Saturn	DEST: Earth
+Lidia Reyes
+BID: 1.5	SOURCE: Sun	DEST: Neptune
+Annett Vigil
+BID: 2.0	SOURCE: Saturn	DEST: Venus
+Bennie Brown
+BID: 0.6	SOURCE: Mars	DEST: Venus
+Martha Wilson
+BID: 0.9	SOURCE: Uranus	DEST: Jupiter
+Cary Flakes
+BID: 1.8	SOURCE: Saturn	DEST: Mercury
+William Pace
+BID: 0.9	SOURCE: Mars	DEST: Neptune
+Mary Dancy
+BID: 2.1	SOURCE: Neptune	DEST: Sun
+Wesley Chee
+BID: 1.9	SOURCE: Earth	DEST: Sun
+Robert Theall
+BID: 2.5	SOURCE: Sun	DEST: Venus
+Stephanie Chew
+BID: 2.8	SOURCE: Venus	DEST: Neptune
+Albert Gervais
+BID: 1.2	SOURCE: Mercury	DEST: Mars
+Deanne Ball
+BID: 2.5	SOURCE: Jupiter	DEST: Neptune
+Leticia Pressly
+BID: 4.1	SOURCE: Saturn	DEST: Mars
+Louise Thomas
+BID: 3.0	SOURCE: Venus	DEST: Earth
+Courtney Steinman
+BID: 3.7	SOURCE: Uranus	DEST: Jupiter
+John Yeater
+BID: 3.6	SOURCE: Mars	DEST: Uranus
+Kevin Hudson
+BID: 3.2	SOURCE: Earth	DEST: Uranus
+Wendy Jones
+BID: 3.8	SOURCE: Mercury	DEST: Earth
+Ryan Davis
+BID: 1.9	SOURCE: Earth	DEST: Mercury
+Elsie Williams
+BID: 1.2	SOURCE: Sun	DEST: Neptune
+Laura Ziegler
+BID: 0.4	SOURCE: Mercury	DEST: Venus
+Jonathan Lee
+BID: 2.9	SOURCE: Neptune	DEST: Mars
+Amanda Schmidt
+BID: 2.6	SOURCE: Earth	DEST: Mercury
+William Stubbs
+BID: 0.5	SOURCE: Saturn	DEST: Venus
+Amy Joseph
+BID: 4.4	SOURCE: Jupiter	DEST: Uranus
+Kathleen Geralds
+BID: 2.5	SOURCE: Mercury	DEST: Earth
+Jeffrey Coley
+BID: 3.0	SOURCE: Jupiter	DEST: Sun
+Marilyn Byars
+BID: 1.1	SOURCE: Venus	DEST: Jupiter
+Michelle Vitucci
+BID: 2.4	SOURCE: Mercury	DEST: Sun
+Noel Hall
+BID: 3.7	SOURCE: Mercury	DEST: Earth
+Sharon Faucher
+BID: 1.8	SOURCE: Earth	DEST: Neptune
+Carmen Fairrow
+BID: 1.7	SOURCE: Sun	DEST: Jupiter
+Darren Pak
+BID: 1.1	SOURCE: Earth	DEST: Sun
+Timothy Currie
+BID: 3.1	SOURCE: Venus	DEST: Sun
+Annie Gronewald
+BID: 3.5	SOURCE: Mercury	DEST: Neptune
+Martha Sims
+BID: 2.7	SOURCE: Venus	DEST: Sun
+Luz Falcon
+BID: 2.8	SOURCE: Earth	DEST: Mercury
+Dan Myers
+BID: 2.4	SOURCE: Saturn	DEST: Venus
+Robert Hood
+BID: 3.6	SOURCE: Uranus	DEST: Jupiter
+Junior Bowers
+BID: 1.4	SOURCE: Sun	DEST: Venus
+Jean Briggs
+BID: 0.6	SOURCE: Sun	DEST: Earth
+Michael Key
+BID: 3.8	SOURCE: Venus	DEST: Neptune
+Janet Holland
+BID: 3.3	SOURCE: Venus	DEST: Mars
+Bob Brown
+BID: 2.3	SOURCE: Sun	DEST: Mars
+Latrice Rice
+BID: 3.3	SOURCE: Mercury	DEST: Earth
+Benjamin Bryant
+BID: 1.5	SOURCE: Mars	DEST: Jupiter
+Kathy Donahue
+BID: 1.2	SOURCE: Earth	DEST: Sun
+Sherrie Engel
+BID: 2.6	SOURCE: Saturn	DEST: Mercury
+Russell Owens
+BID: 0.6	SOURCE: Neptune	DEST: Mars
+Tracy Fisher
+BID: 2.9	SOURCE: Jupiter	DEST: Mars
+David Smith
+BID: 0.9	SOURCE: Mars	DEST: Jupiter
+Peter Logan
+BID: 1.6	SOURCE: Mercury	DEST: Neptune
+Clifford Lewis
+BID: 2.4	SOURCE: Jupiter	DEST: Sun
+Paul Warner
+BID: 3.2	SOURCE: Mars	DEST: Earth
+Harry Williams
+BID: 1.1	SOURCE: Mercury	DEST: Uranus
+James Palmo
+BID: 1.9	SOURCE: Neptune	DEST: Venus
+James Eichorn
+BID: 1.3	SOURCE: Saturn	DEST: Venus
+Kevin Fletcher
+BID: 3.6	SOURCE: Sun	DEST: Venus
+Wendy Oden
+BID: 2.4	SOURCE: Venus	DEST: Mars
+Lyle Lasiter
+BID: 2.0	SOURCE: Saturn	DEST: Jupiter
+Peter Brown
+BID: 0.9	SOURCE: Sun	DEST: Jupiter
+Joanne Weinberg
+BID: 2.7	SOURCE: Jupiter	DEST: Venus
+Linda Hulbert
+BID: 1.7	SOURCE: Uranus	DEST: Sun
+Betty Singleton
+BID: 2.5	SOURCE: Uranus	DEST: Saturn
+John Raether
+BID: 1.2	SOURCE: Venus	DEST: Sun
+John Morrison
+BID: 1.4	SOURCE: Sun	DEST: Jupiter
+Rosio Ortiz
+BID: 3.5	SOURCE: Sun	DEST: Jupiter
+Melissa Buffington
+BID: 1.4	SOURCE: Venus	DEST: Sun
+Judith Horn
+BID: 1.4	SOURCE: Saturn	DEST: Venus
+Henry Ambriz
+BID: 2.1	SOURCE: Mercury	DEST: Venus
+Cheri Burt
+BID: 2.2	SOURCE: Mars	DEST: Neptune
+Rosalinda Johns
+BID: 0.3	SOURCE: Mercury	DEST: Uranus
+Robert Newman
+BID: 3.5	SOURCE: Earth	DEST: Mars
+Adolph Russell
+BID: 1.9	SOURCE: Venus	DEST: Saturn
+Russell Walker
+BID: 1.5	SOURCE: Earth	DEST: Jupiter
+Marc Gautier
+BID: 1.0	SOURCE: Venus	DEST: Neptune
+Daryl Parks
+BID: 1.8	SOURCE: Neptune	DEST: Jupiter
+Jose Price
+BID: 4.0	SOURCE: Sun	DEST: Uranus
+John Stebbins
+BID: 1.1	SOURCE: Neptune	DEST: Mercury
+Sue Thomas
+BID: 1.3	SOURCE: Earth	DEST: Mars
+Gary Rumph
+BID: 1.7	SOURCE: Uranus	DEST: Earth
+Mary Ratterree
+BID: 2.6	SOURCE: Venus	DEST: Saturn
+Jason Roddick
+BID: 4.0	SOURCE: Neptune	DEST: Jupiter
+Jennifer Luong
+BID: 1.8	SOURCE: Sun	DEST: Jupiter
+Megan Miller
+BID: 1.2	SOURCE: Mercury	DEST: Venus
+Carla Williams
+BID: 0.8	SOURCE: Neptune	DEST: Saturn
+Lori Kayser
+BID: 2.2	SOURCE: Uranus	DEST: Sun
+Amy Laite
+BID: 3.5	SOURCE: Saturn	DEST: Neptune
+Jeremy Padgett
+BID: 0.6	SOURCE: Mercury	DEST: Venus
+Andrew Fehling
+BID: 0.6	SOURCE: Earth	DEST: Neptune
+Gerry Scharf
+BID: 0.9	SOURCE: Earth	DEST: Mars
+Catherine Muth
+BID: 4.2	SOURCE: Saturn	DEST: Mercury
+Donald Williams
+BID: 1.5	SOURCE: Neptune	DEST: Jupiter
+Alva Garza
+BID: 2.7	SOURCE: Uranus	DEST: Sun
+William Jones
+BID: 2.2	SOURCE: Sun	DEST: Venus
+Steven Hiatt
+BID: 0.5	SOURCE: Jupiter	DEST: Mercury
+Rory Davis
+BID: 3.8	SOURCE: Mars	DEST: Venus
+Troy Lemon
+BID: 1.3	SOURCE: Venus	DEST: Neptune
+Antonio Pifer
+BID: 2.1	SOURCE: Uranus	DEST: Jupiter
+Dallas Harrill
+BID: 0.6	SOURCE: Neptune	DEST: Mercury
+Thomas Mckever
+BID: 3.4	SOURCE: Sun	DEST: Saturn
+George Holland
+BID: 1.5	SOURCE: Mercury	DEST: Neptune
+Philip Pennell
+BID: 3.9	SOURCE: Sun	DEST: Neptune
+Kimberly Henson
+BID: 2.9	SOURCE: Venus	DEST: Saturn
+Stephen Nork
+BID: 2.2	SOURCE: Venus	DEST: Mars
+Reta Pugh
+BID: 0.6	SOURCE: Uranus	DEST: Sun
+Sean Mitchell
+BID: 1.3	SOURCE: Mars	DEST: Sun
+Jed Shull
+BID: 0.6	SOURCE: Saturn	DEST: Neptune
+Robert Chacon
+BID: 1.0	SOURCE: Mercury	DEST: Saturn
+Alexis Wheeler
+BID: 1.2	SOURCE: Jupiter	DEST: Saturn
+Kyle James
+BID: 1.1	SOURCE: Saturn	DEST: Neptune
+Wanda Alvine
+BID: 2.9	SOURCE: Saturn	DEST: Uranus
+Mia Wimberly
+BID: 0.6	SOURCE: Neptune	DEST: Venus
+Abraham Bridges
+BID: 0.5	SOURCE: Venus	DEST: Uranus
+Latonya White
+BID: 2.6	SOURCE: Uranus	DEST: Sun
+Robert Raxter
+BID: 1.5	SOURCE: Jupiter	DEST: Neptune
+Danial Moore
+BID: 3.7	SOURCE: Mars	DEST: Saturn
+Kelly Lafleche
+BID: 0.5	SOURCE: Saturn	DEST: Mars
+Rick Stephens
+BID: 2.2	SOURCE: Jupiter	DEST: Mars
+Lois Alexander
+BID: 2.9	SOURCE: Sun	DEST: Jupiter
+Violet Neilson
+BID: 3.2	SOURCE: Sun	DEST: Saturn
+Kenneth Miner
+BID: 0.3	SOURCE: Jupiter	DEST: Venus
+Jamie Lee
+BID: 3.7	SOURCE: Mercury	DEST: Jupiter
+Krystal Bush
+BID: 1.9	SOURCE: Sun	DEST: Mercury
+Helen Freyman
+BID: 2.9	SOURCE: Venus	DEST: Jupiter
+Ray Huff
+BID: 2.3	SOURCE: Saturn	DEST: Earth
+John Mohmed
+BID: 0.4	SOURCE: Uranus	DEST: Neptune
+Kelvin Evans
+BID: 2.6	SOURCE: Venus	DEST: Jupiter
+Paige Phuong
+BID: 2.9	SOURCE: Neptune	DEST: Mars
+John Diaz
+BID: 2.7	SOURCE: Sun	DEST: Mercury
+Kent Deleon
+BID: 1.5	SOURCE: Jupiter	DEST: Uranus
+Hannelore Mccarthy
+BID: 1.6	SOURCE: Sun	DEST: Neptune
+Robert Oliphant
+BID: 3.0	SOURCE: Uranus	DEST: Mars
+Pamela Carter
+BID: 2.6	SOURCE: Uranus	DEST: Jupiter
+Scotty Peebles
+BID: 3.5	SOURCE: Saturn	DEST: Neptune
+Bradley Voorhis
+BID: 0.5	SOURCE: Mars	DEST: Saturn
+Gary Cote
+BID: 2.0	SOURCE: Sun	DEST: Saturn
+Maxwell Markovich
+BID: 2.6	SOURCE: Mercury	DEST: Earth
+Ruth Kelly
+BID: 3.6	SOURCE: Earth	DEST: Mercury
+Billie Garcia
+BID: 3.2	SOURCE: Saturn	DEST: Mars
+Linda Witt
+BID: 0.9	SOURCE: Mars	DEST: Uranus
+Richard Blanco
+BID: 1.3	SOURCE: Mercury	DEST: Earth
+Duane Geffre
+BID: 4.0	SOURCE: Venus	DEST: Sun
+Matthew Fiaschetti
+BID: 2.1	SOURCE: Saturn	DEST: Uranus
+David Poch
+BID: 2.8	SOURCE: Venus	DEST: Jupiter
+Xiomara Holland
+BID: 1.3	SOURCE: Saturn	DEST: Uranus
+April Corp
+BID: 0.5	SOURCE: Earth	DEST: Sun
+Catherine Hagstrom
+BID: 2.1	SOURCE: Uranus	DEST: Mercury
+Henry Martinez
+BID: 3.9	SOURCE: Jupiter	DEST: Mercury
+Stacy Gentry
+BID: 3.6	SOURCE: Uranus	DEST: Jupiter
+Patricia Burwood
+BID: 1.7	SOURCE: Mercury	DEST: Uranus
+Monique Mahajan
+BID: 3.3	SOURCE: Earth	DEST: Uranus
+Rose Pelletier
+BID: 0.9	SOURCE: Uranus	DEST: Mercury
+William Guerra
+BID: 3.5	SOURCE: Saturn	DEST: Mercury
+John Nagata
+BID: 1.1	SOURCE: Sun	DEST: Mercury
+Jon Nasuti
+BID: 0.7	SOURCE: Mars	DEST: Sun
+Marguerite Eddy
+BID: 2.8	SOURCE: Saturn	DEST: Mercury
+James Sorrell
+BID: 2.0	SOURCE: Sun	DEST: Earth
+William Green
+BID: 3.9	SOURCE: Jupiter	DEST: Sun
+Sharon Wilson
+BID: 0.5	SOURCE: Saturn	DEST: Earth
+Melissa Simpson
+BID: 3.1	SOURCE: Earth	DEST: Venus
+Becky Velo
+BID: 0.8	SOURCE: Mars	DEST: Venus
+Rafaela Foster
+BID: 4.3	SOURCE: Neptune	DEST: Uranus
+Willie Salmeron
+BID: 1.9	SOURCE: Venus	DEST: Sun
+Dana Albaugh
+BID: 1.1	SOURCE: Saturn	DEST: Mars
+Cheryl Floyd
+BID: 0.2	SOURCE: Neptune	DEST: Uranus
+Maria Sartori
+BID: 0.4	SOURCE: Venus	DEST: Mercury
+Greg Phelps
+BID: 3.7	SOURCE: Venus	DEST: Neptune

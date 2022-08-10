@@ -1,0 +1,25 @@
+CSC148 Term Test 2            July 19, 2021
+                                Summer 2021
+
+Examiners:  Marina Tawfik &
+            Saima Ali
+
+--------------------------------------------
+The grade breakdown is as follows:
+
+Q1 - Recursion                  [35 marks]
+Q2 - Short Answer               [15 marks]
+Q3 - Linked Lists               [25 marks]
+Q4 - Test Cases and Debugging   [25 marks]
+
+---------------------------------------------
+
+Make sure you can log into Piazza:
+https://piazza.com/class/ko7juynim5b6ci
+
+First, unzip the .zip archive.
+
+You may find it helpful to open the resulting
+directory in Pycharm as a project.
+
+In PyCharm: File -> Open -> Select the test directory

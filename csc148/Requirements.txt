@@ -1,0 +1,10 @@
+hypothesis
+pytest
+pygame
+matplotlib
+Flask
+mido
+numpy
+python-ta>=1.6.0
+networkx
+pygame-gui

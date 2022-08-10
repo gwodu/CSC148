@@ -1,0 +1,22 @@
+Question 2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Method 1 is called: 
+
+1. Does it ensure that the BST property holds?
+2. [If not, give your example tree before and after a call.]
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Method 2 is called: 
+
+1. Does it ensure that the BST property holds?
+2. [If not, give your example tree before and after a call.]
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Method 3 is called: 
+
+1. Does it ensure that the BST property holds?
+2. [If not, give your example tree before and after a call.]
+ 
